@@ -8,10 +8,10 @@ const products = [
     image: "images/2.png"
   },
   {
-    name: "Spotlight",
-    description: "Adjustable LED spotlight with aluminum body. Ideal for focused lighting.",
-    rate: 270,
-    image: "images/2.png"
+    name: "Profile",
+    description: "write here",
+    rate: 600,
+    image: "images/IMG_2259.jpeg"
   },
   {
     name: "Linear Light",
