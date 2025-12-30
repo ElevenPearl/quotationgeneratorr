@@ -2,6 +2,12 @@ let productCount = 0;
 
 const products = [
   {
+  name: "NONE",
+  description: "ENTER HERE",
+  rate: 0,
+  image: "images/NONE.png"
+}, 
+{
   name: "6 head lenia",
   description: "6 head lenia",
   rate: 350,
@@ -492,6 +498,7 @@ function saveQuotation() {
   URL.revokeObjectURL(url);
   alert("Quotation saved successfully!");
 }
+
 
 
 
